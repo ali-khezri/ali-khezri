@@ -37,7 +37,6 @@
 - [Bankist-DOM-Project](https://github.com/ali-khezri/Bankist-DOM-Project) — Minimalist banking UI with smooth-scroll & modals  
 - [Guess-My-Number-Project](https://github.com/ali-khezri/Guess-My-Number-Project) — Simple “guess the number” game in JS
 
-*(می‌تونی هر پروژه بیشتر یا کمتر از این‌ها رو بذاری؛ فقط لینک‌ها رو دقیق باشه)*
 
 ---
 
