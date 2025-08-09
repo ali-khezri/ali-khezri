@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="Banner" width="100%">
+  <img src="blob:https://www.lummi.ai/0db297b9-5645-4a34-a5f0-a6373d9700d2" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ali Khezri</h1>
