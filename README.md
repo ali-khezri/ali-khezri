@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="blob:https://www.lummi.ai/0db297b9-5645-4a34-a5f0-a6373d9700d2" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Ali Khezri</h1>
 <h3 align="center">Front-end Developer | Software Engineer</h3>
 
