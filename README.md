@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-khezri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-khezri&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
