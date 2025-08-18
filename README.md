@@ -5,7 +5,7 @@
 
 ###  About Me
 - 🔭 I’m currently working on **front-end projects**
-- 🌱 I’m learning **HTML, CSS, JavaScript, React, Tailwind**
+- 🌱 **HTML, CSS, JavaScript, React, Tailwind**
 - 💬 Ask me about **all things front-end**
 -  Fun fact: *My code is cleaner than my handwriting* 😉
 
