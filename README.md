@@ -18,14 +18,6 @@
 
 ---
 
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-khezri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  &nbsp;
-</p>
-
----
-
 ###  Featured Projects
 - [Mapty-Project](https://github.com/ali-khezri/Mapty-Project) — Workout tracking with Leaflet.js & geolocation  
 - [Bankist-DOM-Project](https://github.com/ali-khezri/Bankist-DOM-Project) — Minimalist banking UI with smooth-scroll & modals  
