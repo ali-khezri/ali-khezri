@@ -22,7 +22,6 @@
 
 ---
 
-### 👀 Profile Views
 <p align="center">
   <a href="https://github.com/ali-khezri">
     <img src="https://komarev.com/ghpvc/?username=ali-khezri&label=Profile%20Visits&color=blue&style=for-the-badge" />
