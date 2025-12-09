@@ -23,8 +23,9 @@
 ---
 
 ### 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ali-khezri&theme=tokyonight&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-khezri&theme=tokyonight&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ali-khezri&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ali-khezri&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-khezri&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
