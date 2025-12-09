@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me:
 - 🌱 Currently focused on **React, TypeScript & Next.js**
 - 💼 Building real projects to level up my portfolio
 - 🧠 Passionate about clean UI, smooth UX & performance
@@ -11,7 +11,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ali-khezri)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:khezri.ali.1994@gmail.com)
 
