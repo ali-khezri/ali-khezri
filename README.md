@@ -22,14 +22,12 @@
 
 ---
 
-### 🏆 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ali-khezri&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ali-khezri&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-khezri&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=ali-khezri&label=Profile%20Visits&color=blue&style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/ali-khezri">
+    <img src="https://komarev.com/ghpvc/?username=ali-khezri&label=Profile%20Visits&color=blue&style=for-the-badge" />
+  </a>
+</p>
+
 
 
