@@ -7,7 +7,6 @@
 - 🌱 Currently focused on **React, TypeScript & Next.js**
 - 💼 Building real projects to level up my portfolio
 - 🧠 Passionate about clean UI, smooth UX & performance
-- 🎯 Goal: Become a professional Front-end engineer!
 
 ---
 
